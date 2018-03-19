@@ -1,6 +1,7 @@
 ---
 title: Phil Blanks
 timezone: UTC
+theme: jekyll-theme-architect
 collections:
   posts:
     title: Posts
